@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarvelHeroes</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="appTitle">Héroes de Marvel</string>
+    <string name="height_abbreviation">Alt.</string>
+    <string name="selectHero">Selecciona un héroe</string>
+    <string name="height">Altura</string>
+    <string name="groups">Grupos</string>
+    <string name="more">Más ...</string>
+    <string name="noHero">No hay ningún héroe</string>
+    <string name="power">Poder</string>
+    <string name="abilities">Habilidades</string>
+    <string name="share">Compartir</string>
+    <string name="share_text">Estoy buscando mi héroe favorito: \"%1$s\"</string>
+</resources>
